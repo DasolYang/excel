@@ -1,0 +1,32 @@
+
+
+Fill all selected cells with the same data or formula - Ctrl+Enter
+
+put 0 and space before fraction number - if not, it turns into dates
+
+`1234 - save number as text
+
+$A$1 - make fixed-point ($A1 or A$1) - F4
+
+past special option - Ctrl+Alt+v
+
+select entire column - Shift+Space
+select entire row - Ctrl+Space
+
+Go to next worksheet - Ctrl + PgDn
+Go to previous worksheet - Ctrl + PgUp
+
+toggle formulas on and off - Ctrl + `
+toggle autofilter - Ctrl + Shift + L
+
+displays the create talbe dialog box - Ctrl + L
+
+insert current date - Ctrl + ;
+
+fill down from cell above - Ctrl + D
+
+format anything - Ctrl + 1
+Open the insert function dialog box - Shift + f3
+
+select current region around active cell - Ctrl + Shift + *
+
