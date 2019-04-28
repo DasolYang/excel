@@ -30,3 +30,32 @@ Open the insert function dialog box - Shift + f3
 
 select current region around active cell - Ctrl + Shift + *
 
+=SUM()
+=AVERAGE()
+=COUNTA() - count a range of cells containing numbers or dates
+=COUNT() - counts everything except blank cells (count all)
+=MAX()
+=MIN()
+=RANK()
+
+Insert function - shift + F3
+
+=SUMIF()
+=AVERAGEIF()
+=COUNTIF()
+=SUMIFS()
+=AVERAGEIFS()
+=COUNTIFS()
+
+=IF()
+=VLOOPUP
+
+=FIND()
+=LEN()
+
+=VALUE()
+=TEXT()
+
+=DATEVALUE()
+=TIMEVALUE()
+=INDIRECT()
