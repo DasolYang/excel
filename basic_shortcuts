@@ -59,3 +59,6 @@ Insert function - shift + F3
 =DATEVALUE()
 =TIMEVALUE()
 =INDIRECT()
+
+=DSUM()
+=IFERROR()
